@@ -1,7 +1,13 @@
-%%Examen Unidad 2
-%%Integrantes : Josue Sauca
+%% Se desea un programa en erlang que permita crear numeros aleatorios enteros (100) de los cuales se debe hacer lo siguiente:
+%% Nota: no se debe usar ninguna librería extra, es decir se prohíbe importar librerías externas.
+
+%% Sacar un valor aleatorio de la lista y calcular la superficie de la circunferencia: 1 pto
+%% Sacar dos valores aleatorios de la lista y calcular la superficie del triangulo: 1 pto
+%% Sacar un valor aleatorio de la lista y calcular el volumen de una esfera: 1 pto
+%% Sacar dos valores aleatorios de la lista y sacar el fibacci de cada uno luego sumarlos: 1 pto
+
+%%Integrantes : 
 %% - Josue Sauca
-%% - Xavier Gutierrez
 -module(prueba_unidad).
 -compile(export_all).
 
